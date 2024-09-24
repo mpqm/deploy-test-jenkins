@@ -2,6 +2,8 @@
   <img alt="Vue logo" src="./assets/logo.png">
   <HelloWorld msg="Welcome to Your Vue.js App"/>
   1234sfdsafdsafsda
+  1234dssafdsafdafdsfasfdsafsdadafdsafdafdsafsdfadafdsafds
+  afdafdsafdsasdafdsafsdafdsaf
 </template>
 
 <script>
